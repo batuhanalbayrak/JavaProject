@@ -5,6 +5,7 @@ public class BatuHello {
 
         System.out.println("Ben şimdi yeni bir branch oluşturdum ve oradayım. Batu branchigit add .");
         System.out.println("main branchde değişiklik yaptım");
+        System.out.println("batu branchınde değişiklik yaptım");
 
     }
 }
